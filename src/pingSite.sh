@@ -10,4 +10,3 @@ ping -c 5 $IP &> output.txt
 
 cat output.txt
 #using > we can redirect the output the the ping to another file
-#for this assignment we are calling said file output.txt
